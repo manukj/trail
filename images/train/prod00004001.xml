@@ -1,0 +1,26 @@
+<annotation>
+  <folder>bottle</folder>
+  <filename>prod00004001.jpg</filename>
+  <path>C:\Users\Dell\Desktop\bottle\prod00004001.jpg.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>374</width>
+    <height>664</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>72</xmin>
+      <ymin>217</ymin>
+      <xmax>299</xmax>
+      <ymax>398</ymax>
+    </bndbox>
+  </object>
+</annotation>

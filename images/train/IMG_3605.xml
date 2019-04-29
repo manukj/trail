@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bottle</folder>
+	<filename>IMG_3605.jpg</filename>
+	<path>/Users/murudeshwarbarole/Downloads/dataset/bottle/IMG_3605.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>207</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>9</ymin>
+			<xmax>129</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

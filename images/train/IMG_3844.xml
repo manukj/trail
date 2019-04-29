@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lays</folder>
+	<filename>IMG_3844.jpg</filename>
+	<path>/Users/murudeshwarbarole/Downloads/dataset/lays/IMG_3844.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue_lays</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>63</ymin>
+			<xmax>232</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>
